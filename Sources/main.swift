@@ -1,11 +1,18 @@
 import Commander
 import Cocoa
 
-command(
-    Option("name", "world"),
-    Option("count", 1, description: "The number of times to print.")
-) { name, count in
-    for _ in 0..<count {
-        print("Hello \(name)")
+Group {
+    $0.command("u", description: "Json url") { (url: String) in
+        guard let URL = URL(string: url) else {
+            print("Please provide a valid url ..")
+            exit(1)
+        }
+        URLHandler.fetchJson(at: URL, completion: { json in
+            print("json \(json)")
+        })
     }
-    }.run()
+    
+    $0.command("f", description: "Json file path") { (path: String) in
+        print("file path: \(path)")
+    }
+}.run()
