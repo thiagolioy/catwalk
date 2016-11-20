@@ -1,0 +1,5 @@
+module CHTTPParser {
+    umbrella "/Users/Thiago.Lioy/dev/mobilelabs/catwalk/Packages/CHTTPParser-0.14.0/Sources/include"
+    link "CHTTPParser"
+    export *
+}

@@ -1,0 +1,5 @@
+module CLibvenice {
+    umbrella "/Users/Thiago.Lioy/dev/mobilelabs/catwalk/Packages/CLibvenice-0.14.0/Sources/include"
+    link "CLibvenice"
+    export *
+}

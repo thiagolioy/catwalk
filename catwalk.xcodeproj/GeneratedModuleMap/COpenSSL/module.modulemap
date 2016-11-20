@@ -1,0 +1,5 @@
+module COpenSSL {
+    umbrella header "/Users/Thiago.Lioy/dev/mobilelabs/catwalk/Packages/COpenSSL-0.14.0/Sources/include/COpenSSL.h"
+    link "COpenSSL"
+    export *
+}

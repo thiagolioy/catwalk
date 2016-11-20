@@ -1,0 +1,65 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "37F91E012359A0AF803AA94638DB68E78BBF5E74",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1308E24804F967D0BFAEC5294D55BE2BE7D89573" : 9223372036854775807,
+    "A159381094DADFEA09ECCD534D4C3E31D0BC01B4" : 9223372036854775807,
+    "AFEF2E1BD93F36E85AC2D560F4E84962820B190D" : 9223372036854775807,
+    "269ADF55FAAC04D68303BE30B6BD693E717155DE" : 9223372036854775807,
+    "37F91E012359A0AF803AA94638DB68E78BBF5E74" : 9223372036854775807,
+    "1E341D92E29B00380C7F10E3866962C9D13CE7F8" : 9223372036854775807,
+    "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0809A864-2DFD-41CC-9B10-E0B0AFBF1CDF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1308E24804F967D0BFAEC5294D55BE2BE7D89573" : "catwalk\/Packages\/Reflection-0.14.2\/",
+    "A159381094DADFEA09ECCD534D4C3E31D0BC01B4" : "catwalk\/Packages\/CYAJL-0.14.0\/",
+    "AFEF2E1BD93F36E85AC2D560F4E84962820B190D" : "catwalk\/Packages\/CPOSIX-0.14.0\/",
+    "269ADF55FAAC04D68303BE30B6BD693E717155DE" : "catwalk\/Packages\/CHTTPParser-0.14.0\/",
+    "37F91E012359A0AF803AA94638DB68E78BBF5E74" : "catwalk\/",
+    "1E341D92E29B00380C7F10E3866962C9D13CE7F8" : "catwalk\/Packages\/Axis-0.14.0\/",
+    "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : "catwalk\/Packages\/OpenSSL-0.14.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "catwalk",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "catwalk.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Reflection.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1308E24804F967D0BFAEC5294D55BE2BE7D89573"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/Axis.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E341D92E29B00380C7F10E3866962C9D13CE7F8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/CHTTPParser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "269ADF55FAAC04D68303BE30B6BD693E717155DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thiagolioy\/catwalk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37F91E012359A0AF803AA94638DB68E78BBF5E74"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/CYAJL.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A159381094DADFEA09ECCD534D4C3E31D0BC01B4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/CPOSIX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFEF2E1BD93F36E85AC2D560F4E84962820B190D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/OpenSSL.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32"
+    }
+  ]
+}

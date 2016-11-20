@@ -1,0 +1,5 @@
+module CPOSIX {
+    umbrella "/Users/Thiago.Lioy/dev/mobilelabs/catwalk/Packages/CPOSIX-0.14.0/Sources/CPOSIX/include"
+    link "CPOSIX"
+    export *
+}

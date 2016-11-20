@@ -1,0 +1,5 @@
+module CYAJL {
+    umbrella "/Users/Thiago.Lioy/dev/mobilelabs/catwalk/Packages/CYAJL-0.14.0/Sources/CYAJL/include"
+    link "CYAJL"
+    export *
+}
